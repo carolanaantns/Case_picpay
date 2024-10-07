@@ -1,1 +1,1 @@
-Código desenvolvimento como etapa de processo seletivo.
+Código desenvolvido como etapa de processo seletivo.
